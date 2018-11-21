@@ -36,4 +36,4 @@ void traverse_postorder(T_NODE* root){
 -left,right,root순으로 데이터 출력  
   
 void traverse_preorder(T_NODE* root){  
--root,left,right순 으로 데이터    
+-root,left,right순 으로 데이터 출력
