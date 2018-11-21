@@ -8,7 +8,7 @@
 typedef struct{  
 	int count;  
 	T_NODE* root;  
-}BST_TREE;  <code>
+}BST_TREE;<code>  
     
 <pre>T_NODE* add_bst(T_NODE* root,int data){<code>  
 -data 값을 이용하여 새로운 노드를 만든다.  
